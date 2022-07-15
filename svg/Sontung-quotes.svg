@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+          background-color: #20232A;
+					border-radius: 10px;
+					color: white;
+          line-height: 1.6;
+				}
+        .quotes-eng {
+          font-size: 18px;
+        }
+        .quotes-vi {
+          font-size: 18px;
+        }
+        .trungquandev-signature {
+          font-size: 16px;
+        }
+			</style>
+			<br/>
+			<br/>
+
+		<div class="container">
+        <div class="quotes-eng">"Never explain yourself to anyone. Because the person who likes you does not need it, and the person who dislikes you won’t believe it."</div>
+        <div class="quotes-vi">"Đừng bao giờ cố giải thích con người bạn với bất cứ ai. Vì những người tin bạn không cần điều đó còn những người không thích bạn sẽ không tin lời bạn đâu"</div>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
