@@ -17,21 +17,20 @@
           line-height: 1.6;
 				}
         .quotes-eng {
+		  text-align: center;
           font-size: 18px;
         }
         .quotes-vi {
+		  text-align: center;
           font-size: 18px;
-        }
-        .trungquandev-signature {
-          font-size: 16px;
         }
 			</style>
 			<br/>
 			<br/>
 
 		<div class="container">
-        <div class="quotes-eng">"Never explain yourself to anyone. Because the person who likes you does not need it, and the person who dislikes you won’t believe it."</div>
-        <div class="quotes-vi">"Đừng bao giờ cố giải thích con người bạn với bất cứ ai. Vì những người tin bạn không cần điều đó còn những người không thích bạn sẽ không tin lời bạn đâu"</div>
+        <div class="quotes-eng">"Never tell others what you can do, let them see for themselves."</div>
+        <div class="quotes-vi">"Đừng bao giờ nói cho người khác biết bạn có thể làm gì, hãy để họ tự nhìn nhận"</div>
       </div>
 		</div>
 	</foreignObject>

@@ -43,6 +43,6 @@
 
 <br>
 <a href="#" target="_blank">
-  <img src="svg/Sontung-quotes.svg" width="846" height="150" />
+  <img src="svg/Sontung-quotes.svg" width="846" height="450" />
 </a>
 
