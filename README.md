@@ -41,6 +41,6 @@
 </div>
 
 <a href="#" target="_blank">
-  <img src="svg/Sontung-quotes.svg" />
+  <img src="svg/SonTung-quotes.svg" />
 </a>
 
